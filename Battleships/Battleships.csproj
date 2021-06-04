@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D4A17E4E-3B0E-40DB-9740-942ADC6B3C0A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Glada_Game_Center</RootNamespace>
-    <AssemblyName>Glada Game Center</AssemblyName>
+    <RootNamespace>Battleships</RootNamespace>
+    <AssemblyName>Battleships</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

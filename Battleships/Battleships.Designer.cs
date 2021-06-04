@@ -1,4 +1,4 @@
-﻿namespace Glada_Game_Center
+﻿namespace Battleships
 {
     partial class Battleships
     {
@@ -3867,7 +3867,7 @@
             // 
             // pbWinLoss
             // 
-            this.pbWinLoss.BackgroundImage = global::Glada_Game_Center.Properties.Resources.icon;
+            this.pbWinLoss.BackgroundImage = global::Battleships.Properties.Resources.icon;
             this.pbWinLoss.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pbWinLoss.Location = new System.Drawing.Point(622, 169);
             this.pbWinLoss.Name = "pbWinLoss";
@@ -4198,7 +4198,7 @@
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Battleships";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "BATTLESHIPS - Glada Game Center";
+            this.Text = "Battleships";
             this.Load += new System.EventHandler(this.Battleships_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Battleships_KeyDown);
             ((System.ComponentModel.ISupportInitialize)(this.pbA1)).EndInit();

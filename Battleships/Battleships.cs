@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace Glada_Game_Center
+namespace Battleships
 {
     public partial class Battleships : Form
     {
