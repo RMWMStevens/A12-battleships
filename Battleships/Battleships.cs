@@ -75,7 +75,7 @@ namespace Battleships
 
         // Declaratie MainMenu
         MainMenu mainMenu;
-        
+
         private void Battleships_Load(object sender, EventArgs e)
         {
             // Tijdelijke List om alle PictureBox controls in te laden die een 'Tag' hebben
@@ -252,7 +252,7 @@ namespace Battleships
                     // ButtonStart wordt uitgeschakeld en krijgt een duidelijke "Inactive" kleur
                     btnStart.Enabled = false;
                     btnStart.BackColor = SystemColors.Control;
-                    
+
                     // Aangezien PlayerA mag beginnen, wordt de achtergrond van zijn Label groen van kleur.
                     lblPlayerA.BackColor = Color.LightGreen;
 
@@ -276,7 +276,7 @@ namespace Battleships
                 // Dit is omdat de knop "btnStart" eventjes een andere functie heeft wanneer er gewonnen of verloren is door één van de 2 spelers
                 // De "btnStart" is dan een Toggle om de feliciteertekst + afbeelding te verbergen / tonen
                 WinLoss();
-            } 
+            }
         }
 
         // Deze knop spreekt natuurlijk voor zich.
@@ -600,7 +600,7 @@ namespace Battleships
 
             if (bUp) // WHITE als laatste vakje
             {
-                for (int i = iInUse; i >= (iInUse - (iShipSize*10)); i-=10)
+                for (int i = iInUse; i >= (iInUse - (iShipSize * 10)); i -= 10)
                 {
                     TableA[i].BackgroundImage = null;
                     TableA[i].BackColor = Color.LightGray;
@@ -610,7 +610,7 @@ namespace Battleships
 
             if (bDown) // WHITESMOKE als laatste vakje
             {
-                for (int i = iInUse; i <= (iInUse + (iShipSize*10)); i += 10)
+                for (int i = iInUse; i <= (iInUse + (iShipSize * 10)); i += 10)
                 {
                     TableA[i].BackgroundImage = null;
                     TableA[i].BackColor = Color.LightGray;
@@ -826,7 +826,7 @@ namespace Battleships
                         StartGame = false;
                         // De Timer zorgt voor de 'delay' tussen PlayerA & PC-Player's schot
                         tmrTimer.Enabled = true;
-                        
+
                         // De achtergrond van LabelA wordt grijs...
                         lblPlayerA.BackColor = SystemColors.Control;
                         // ... en de achtergrond van PlayerB (PC-Player) wordt lichtgroen om aan te tonen dat het niet jouw beurt is
@@ -898,7 +898,7 @@ namespace Battleships
                 if (iHitsA == 27)
                 {
                     WinLoss();
-                    
+
                 }
             }
             // Wanneer de game niet gestart is, wilt de speler iets doen wat nog niet kan
@@ -1091,7 +1091,7 @@ namespace Battleships
                         {
                             Continue = false;
                         }
-                        
+
                         // De teller die bijhoudt hoevaak de "do-while" loop al is gedaan, wordt met één verhoogd.
                         iCounter++;
                     }
@@ -1191,7 +1191,7 @@ namespace Battleships
                     // Hetzelfde als hierboven, alleen dan met Omhoog en Omlaag. 
                     else if (diff == -10 || diff == 10)
                     {
-                        if (HitHistory[HitHistory.Count -1] + diff >= 0 && HitHistory[HitHistory.Count - 1] + diff < 100)
+                        if (HitHistory[HitHistory.Count - 1] + diff >= 0 && HitHistory[HitHistory.Count - 1] + diff < 100)
                         {
                             Continue = true;
                         }
@@ -1410,7 +1410,7 @@ namespace Battleships
             // // Uitleg iB // //
             // Voorbeeld: Wanneer "bRight" == 'true', "iB" wordt verhoogd met één. Wanneer ook "bDown" == 'true', verhoogd met 8.
             // Totaal: 9. 'switch-case' gaat naar plek 9 waarin staat welke richting het wordt en de berekening voor het tekenen van het schip.
-            
+
             // Waardes
             /// bRightB = 1
             /// bLeftB = 2
