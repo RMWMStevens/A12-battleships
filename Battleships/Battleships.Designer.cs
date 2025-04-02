@@ -1987,7 +1987,7 @@
             this.btnStart.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btnStart.BackColor = System.Drawing.Color.LimeGreen;
             this.btnStart.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnStart.Font = new System.Drawing.Font("Minion Pro", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnStart.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnStart.Location = new System.Drawing.Point(779, 719);
             this.btnStart.Margin = new System.Windows.Forms.Padding(4);
             this.btnStart.Name = "btnStart";
@@ -2002,7 +2002,7 @@
             this.btnReset.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btnReset.BackColor = System.Drawing.Color.Red;
             this.btnReset.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnReset.Font = new System.Drawing.Font("Minion Pro", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnReset.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnReset.Location = new System.Drawing.Point(635, 719);
             this.btnReset.Margin = new System.Windows.Forms.Padding(4);
             this.btnReset.Name = "btnReset";
@@ -2017,11 +2017,11 @@
             this.lbltxtMissesA.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.lbltxtMissesA.AutoSize = true;
             this.lbltxtMissesA.BackColor = System.Drawing.Color.Transparent;
-            this.lbltxtMissesA.Font = new System.Drawing.Font("Minion Pro", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbltxtMissesA.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbltxtMissesA.Location = new System.Drawing.Point(399, 766);
             this.lbltxtMissesA.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbltxtMissesA.Name = "lbltxtMissesA";
-            this.lbltxtMissesA.Size = new System.Drawing.Size(74, 36);
+            this.lbltxtMissesA.Size = new System.Drawing.Size(80, 31);
             this.lbltxtMissesA.TabIndex = 303;
             this.lbltxtMissesA.Text = "MISS";
             // 
@@ -2030,11 +2030,11 @@
             this.lblMissesA.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.lblMissesA.AutoSize = true;
             this.lblMissesA.BackColor = System.Drawing.Color.Transparent;
-            this.lblMissesA.Font = new System.Drawing.Font("Minion Pro", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblMissesA.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblMissesA.Location = new System.Drawing.Point(478, 766);
             this.lblMissesA.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblMissesA.Name = "lblMissesA";
-            this.lblMissesA.Size = new System.Drawing.Size(28, 36);
+            this.lblMissesA.Size = new System.Drawing.Size(29, 31);
             this.lblMissesA.TabIndex = 304;
             this.lblMissesA.Text = "0";
             this.lblMissesA.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -2044,11 +2044,11 @@
             this.lblPlayerA.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.lblPlayerA.AutoSize = true;
             this.lblPlayerA.BackColor = System.Drawing.Color.Transparent;
-            this.lblPlayerA.Font = new System.Drawing.Font("Minion Pro", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPlayerA.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblPlayerA.Location = new System.Drawing.Point(399, 703);
             this.lblPlayerA.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblPlayerA.Name = "lblPlayerA";
-            this.lblPlayerA.Size = new System.Drawing.Size(130, 36);
+            this.lblPlayerA.Size = new System.Drawing.Size(143, 31);
             this.lblPlayerA.TabIndex = 305;
             this.lblPlayerA.Text = "PLAYER 1";
             // 
@@ -2057,11 +2057,11 @@
             this.lblPlayerB.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.lblPlayerB.AutoSize = true;
             this.lblPlayerB.BackColor = System.Drawing.Color.Transparent;
-            this.lblPlayerB.Font = new System.Drawing.Font("Minion Pro", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPlayerB.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblPlayerB.Location = new System.Drawing.Point(1041, 703);
             this.lblPlayerB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblPlayerB.Name = "lblPlayerB";
-            this.lblPlayerB.Size = new System.Drawing.Size(130, 36);
+            this.lblPlayerB.Size = new System.Drawing.Size(143, 31);
             this.lblPlayerB.TabIndex = 308;
             this.lblPlayerB.Text = "PLAYER 2";
             // 
@@ -2070,11 +2070,11 @@
             this.lblMissesB.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.lblMissesB.AutoSize = true;
             this.lblMissesB.BackColor = System.Drawing.Color.Transparent;
-            this.lblMissesB.Font = new System.Drawing.Font("Minion Pro", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblMissesB.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblMissesB.Location = new System.Drawing.Point(1120, 766);
             this.lblMissesB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblMissesB.Name = "lblMissesB";
-            this.lblMissesB.Size = new System.Drawing.Size(28, 36);
+            this.lblMissesB.Size = new System.Drawing.Size(29, 31);
             this.lblMissesB.TabIndex = 307;
             this.lblMissesB.Text = "0";
             this.lblMissesB.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -2084,11 +2084,11 @@
             this.lbltxtMissesB.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.lbltxtMissesB.AutoSize = true;
             this.lbltxtMissesB.BackColor = System.Drawing.Color.Transparent;
-            this.lbltxtMissesB.Font = new System.Drawing.Font("Minion Pro", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbltxtMissesB.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbltxtMissesB.Location = new System.Drawing.Point(1041, 766);
             this.lbltxtMissesB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbltxtMissesB.Name = "lbltxtMissesB";
-            this.lbltxtMissesB.Size = new System.Drawing.Size(74, 36);
+            this.lbltxtMissesB.Size = new System.Drawing.Size(80, 31);
             this.lbltxtMissesB.TabIndex = 306;
             this.lbltxtMissesB.Text = "MISS";
             // 
@@ -3696,7 +3696,7 @@
             // 
             this.btnAirplane.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btnAirplane.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnAirplane.Font = new System.Drawing.Font("Minion Pro", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAirplane.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAirplane.Location = new System.Drawing.Point(30, 693);
             this.btnAirplane.Margin = new System.Windows.Forms.Padding(4);
             this.btnAirplane.Name = "btnAirplane";
@@ -3710,7 +3710,7 @@
             // 
             this.btnBattleship.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btnBattleship.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnBattleship.Font = new System.Drawing.Font("Minion Pro", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnBattleship.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnBattleship.Location = new System.Drawing.Point(29, 729);
             this.btnBattleship.Margin = new System.Windows.Forms.Padding(4);
             this.btnBattleship.Name = "btnBattleship";
@@ -3724,7 +3724,7 @@
             // 
             this.btnPatrol.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btnPatrol.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnPatrol.Font = new System.Drawing.Font("Minion Pro", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPatrol.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPatrol.Location = new System.Drawing.Point(29, 764);
             this.btnPatrol.Margin = new System.Windows.Forms.Padding(4);
             this.btnPatrol.Name = "btnPatrol";
@@ -3737,7 +3737,7 @@
             // txtAirplane
             // 
             this.txtAirplane.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.txtAirplane.Font = new System.Drawing.Font("Minion Pro", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtAirplane.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtAirplane.Location = new System.Drawing.Point(179, 693);
             this.txtAirplane.Margin = new System.Windows.Forms.Padding(4);
             this.txtAirplane.Multiline = true;
@@ -3751,7 +3751,7 @@
             // txtBattleship
             // 
             this.txtBattleship.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.txtBattleship.Font = new System.Drawing.Font("Minion Pro", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtBattleship.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtBattleship.Location = new System.Drawing.Point(179, 729);
             this.txtBattleship.Margin = new System.Windows.Forms.Padding(4);
             this.txtBattleship.Multiline = true;
@@ -3765,7 +3765,7 @@
             // txtPatrol
             // 
             this.txtPatrol.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.txtPatrol.Font = new System.Drawing.Font("Minion Pro", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPatrol.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPatrol.Location = new System.Drawing.Point(179, 764);
             this.txtPatrol.Margin = new System.Windows.Forms.Padding(4);
             this.txtPatrol.Multiline = true;
@@ -3781,11 +3781,11 @@
             this.lblHitsA.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.lblHitsA.AutoSize = true;
             this.lblHitsA.BackColor = System.Drawing.Color.Transparent;
-            this.lblHitsA.Font = new System.Drawing.Font("Minion Pro", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblHitsA.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblHitsA.Location = new System.Drawing.Point(478, 738);
             this.lblHitsA.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblHitsA.Name = "lblHitsA";
-            this.lblHitsA.Size = new System.Drawing.Size(28, 36);
+            this.lblHitsA.Size = new System.Drawing.Size(29, 31);
             this.lblHitsA.TabIndex = 416;
             this.lblHitsA.Text = "0";
             this.lblHitsA.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -3795,11 +3795,11 @@
             this.lbltxtHitsA.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.lbltxtHitsA.AutoSize = true;
             this.lbltxtHitsA.BackColor = System.Drawing.Color.Transparent;
-            this.lbltxtHitsA.Font = new System.Drawing.Font("Minion Pro", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbltxtHitsA.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbltxtHitsA.Location = new System.Drawing.Point(399, 738);
             this.lbltxtHitsA.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbltxtHitsA.Name = "lbltxtHitsA";
-            this.lbltxtHitsA.Size = new System.Drawing.Size(62, 36);
+            this.lbltxtHitsA.Size = new System.Drawing.Size(59, 31);
             this.lbltxtHitsA.TabIndex = 415;
             this.lbltxtHitsA.Text = "HIT";
             // 
@@ -3808,11 +3808,11 @@
             this.lblHitsB.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.lblHitsB.AutoSize = true;
             this.lblHitsB.BackColor = System.Drawing.Color.Transparent;
-            this.lblHitsB.Font = new System.Drawing.Font("Minion Pro", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblHitsB.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblHitsB.Location = new System.Drawing.Point(1120, 738);
             this.lblHitsB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblHitsB.Name = "lblHitsB";
-            this.lblHitsB.Size = new System.Drawing.Size(28, 36);
+            this.lblHitsB.Size = new System.Drawing.Size(29, 31);
             this.lblHitsB.TabIndex = 418;
             this.lblHitsB.Text = "0";
             this.lblHitsB.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -3822,41 +3822,41 @@
             this.lbltxtHitsB.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.lbltxtHitsB.AutoSize = true;
             this.lbltxtHitsB.BackColor = System.Drawing.Color.Transparent;
-            this.lbltxtHitsB.Font = new System.Drawing.Font("Minion Pro", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbltxtHitsB.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbltxtHitsB.Location = new System.Drawing.Point(1041, 738);
             this.lbltxtHitsB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbltxtHitsB.Name = "lbltxtHitsB";
-            this.lbltxtHitsB.Size = new System.Drawing.Size(62, 36);
+            this.lbltxtHitsB.Size = new System.Drawing.Size(59, 31);
             this.lbltxtHitsB.TabIndex = 417;
             this.lbltxtHitsB.Text = "HIT";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Minion Pro", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(6, 692);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(22, 27);
+            this.label1.Size = new System.Drawing.Size(23, 25);
             this.label1.TabIndex = 419;
             this.label1.Text = "1";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Minion Pro", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(6, 728);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(22, 27);
+            this.label2.Size = new System.Drawing.Size(23, 25);
             this.label2.TabIndex = 420;
             this.label2.Text = "2";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Minion Pro", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(6, 763);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(22, 27);
+            this.label3.Size = new System.Drawing.Size(23, 25);
             this.label3.TabIndex = 421;
             this.label3.Text = "3";
             // 
@@ -3879,7 +3879,7 @@
             // lblWinLoss
             // 
             this.lblWinLoss.BackColor = System.Drawing.Color.Black;
-            this.lblWinLoss.Font = new System.Drawing.Font("Minion Pro", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblWinLoss.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblWinLoss.ForeColor = System.Drawing.Color.White;
             this.lblWinLoss.Location = new System.Drawing.Point(622, 84);
             this.lblWinLoss.Name = "lblWinLoss";
@@ -3896,7 +3896,7 @@
             this.chkSpecial.CheckState = System.Windows.Forms.CheckState.Checked;
             this.chkSpecial.Location = new System.Drawing.Point(1305, 699);
             this.chkSpecial.Name = "chkSpecial";
-            this.chkSpecial.Size = new System.Drawing.Size(123, 21);
+            this.chkSpecial.Size = new System.Drawing.Size(118, 20);
             this.chkSpecial.TabIndex = 424;
             this.chkSpecial.Text = "Special Effects";
             this.chkSpecial.UseVisualStyleBackColor = true;
@@ -3909,7 +3909,7 @@
             this.chkMusic.CheckState = System.Windows.Forms.CheckState.Checked;
             this.chkMusic.Location = new System.Drawing.Point(1422, 699);
             this.chkMusic.Name = "chkMusic";
-            this.chkMusic.Size = new System.Drawing.Size(66, 21);
+            this.chkMusic.Size = new System.Drawing.Size(64, 20);
             this.chkMusic.TabIndex = 426;
             this.chkMusic.Text = "Music";
             this.chkMusic.UseVisualStyleBackColor = true;
@@ -3945,7 +3945,7 @@
             this.lblDelay.AutoSize = true;
             this.lblDelay.Location = new System.Drawing.Point(1339, 747);
             this.lblDelay.Name = "lblDelay";
-            this.lblDelay.Size = new System.Drawing.Size(44, 17);
+            this.lblDelay.Size = new System.Drawing.Size(43, 16);
             this.lblDelay.TabIndex = 429;
             this.lblDelay.Text = "Delay";
             // 
@@ -3954,7 +3954,7 @@
             this.lblVolume.AutoSize = true;
             this.lblVolume.Location = new System.Drawing.Point(1442, 747);
             this.lblVolume.Name = "lblVolume";
-            this.lblVolume.Size = new System.Drawing.Size(55, 17);
+            this.lblVolume.Size = new System.Drawing.Size(53, 16);
             this.lblVolume.TabIndex = 430;
             this.lblVolume.Text = "Volume";
             // 
